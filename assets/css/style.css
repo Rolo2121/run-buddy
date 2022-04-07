@@ -30,18 +30,18 @@ body {
     justify-content: space-between;
   }
   
-  header h1 {
+  .header h1 {
     font-weight: bold;
     margin: 0;
     font-size: 36px;
     color: #fce138;
   }
   
-  header a {
+  .header a {
     color: #fce138;
   }
   
-  header a {
+  .header a {
     text-decoration: none;
     color: #fce138;
   }
